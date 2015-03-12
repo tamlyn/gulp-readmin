@@ -1,7 +1,7 @@
 {
     "name": "gulp-readmin",
     "version": "0.1.0",
-    "description": "Load files from <script> and <link> tags into a stream",
+    "description": "Load files from script and link tags into a stream",
     "author": "Tamlyn Rhodes <tamlyn.org>",
     "license": "MIT",
     "main": "index.js",
@@ -13,5 +13,9 @@
     "keywords": [
         "gulpplugin",
         "usemin"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tamlyn/gulp-readmin"
+    }
 }
