@@ -6,9 +6,9 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "gulp-util": "~2.2.14",
-    "through2": "~0.5.1",
-    "gulp-usemin": "~0.3"
+    "gulp-usemin": "~0.3",
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
   },
   "keywords": [
     "gulpplugin",

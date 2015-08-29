@@ -1,6 +1,8 @@
 # gulp-readmin
 > Load files from `script` and `link` tags into a stream to do with as you wish
 
+![Build status](https://travis-ci.org/tamlyn/gulp-readmin.svg?branch=master) [![Dependency status](https://david-dm.org/tamlyn/gulp-readmin.svg)](https://david-dm.org/tamlyn/gulp-readmin)
+
 ## Usage
 
 First, install `gulp-readmin` as a development dependency:
