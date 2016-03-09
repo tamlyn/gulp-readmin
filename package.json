@@ -1,12 +1,12 @@
 {
   "name": "gulp-readmin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Load files from script and link tags into a stream",
   "author": "Tamlyn Rhodes <tamlyn.org>",
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "gulp-usemin": "~0.3",
+    "gulp-usemin": "0.3.17",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
   },

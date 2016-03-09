@@ -118,5 +118,11 @@ gulp.task('minifyjs', function () {
 
 ## Changelog
 
+#### 0.1.2
+- pin gulp-usemin version
+
+#### 0.1.1
+- documentation
+
 #### 0.1.0
 - initial release
