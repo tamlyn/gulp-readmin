@@ -21,7 +21,7 @@
   "devDependencies": {
     "event-stream": "^3.3.1",
     "mocha": "^3.1.0",
-    "vinyl": "^0.5.1"
+    "vinyl": "^2.0.0"
   },
   "scripts": {
     "test": "mocha"
